@@ -1,0 +1,13 @@
+.primary_data{
+    padding: 10px 30px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
+
+.profile_btn{
+    background-color: black;
+    padding: 5px 30px;
+    border-radius: 10px;
+    color: white;
+}
